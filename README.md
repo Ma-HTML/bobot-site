@@ -1,2 +1,4 @@
 # bobot-site
-site de bobot
+**site de bobot**
+
+Ici en open source le code
